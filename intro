@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Assignment Website</title>
+    <style>
+        body { font-family: Arial; text-align: center; margin: 50px; }
+        h1 { color: #2c3e50; }
+        p { color: #34495e; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>Hello! I am Umair Tanveer</h1>
+    <p>Welcome to my personal website. I am a Tech Student at FCCU from Lahore,Pakistan.</p>
+    <p>I love to learn about AI, Social Hacking. This website is part of my assignment!</p>
+</body>
+</html>
